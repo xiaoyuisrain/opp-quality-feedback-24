@@ -1,6 +1,6 @@
 # Automatic feedback for OPP texts
 
-This repo contains the code (.py files), prompt, experiment results (.json files), and report for the study \enquote{Automatic feedback for OPP texts}, where I tested state-of-the-art LLMs on their capabilities to produce rubric-based quality feedback for Dutch OPP texts.
+This repo contains the code (.py files), prompt, experiment results (.json files), and report for the study "Automatic feedback for OPP texts", where I tested state-of-the-art LLMs on their capabilities to produce rubric-based quality feedback for Dutch OPP texts.
 
 Use `test_deepseek.py` and `test_gemini.py` to run the main experiments.
 Provide a range of OPP documents you would like to query as follows:
